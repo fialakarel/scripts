@@ -10,7 +10,7 @@
 #Email     :fiala.karel@gmail.com
 #Version   :v1.0.0
 #Date      :20200513
-#Usage     :wget https://raw.githubusercontent.com/fialakarel/scripts/master/ci/ssh-init.sh -O - | sh -
+#Usage     :wget -q https://raw.githubusercontent.com/fialakarel/scripts/master/ci/ssh-init.sh -O - | sh -
 
 set -ef
 
